@@ -1,0 +1,11 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(—Œ‰€ûÿÿÿÿ8úæí½±1
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(çÔ‹¶þÿÿÿÿ8úæí½±1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•­ìèüÿÿÿÿ8ûæí½±1
+Ž
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Þýÿÿÿÿ8†çí½±1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Åü®–8ˆçí½±1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Åü®–8‰çí½±1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Åü®–8’±ï½±1

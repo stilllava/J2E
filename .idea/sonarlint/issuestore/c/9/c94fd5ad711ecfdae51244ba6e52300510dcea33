@@ -1,0 +1,25 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ïã¡İşÿÿÿÿ8Ê¸áİ³1
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(©‘ş®ûÿÿÿÿ8Ë¸áİ³1
+g	java:S112?"FDefine and throw a dedicated exception instead of using a generic one.(Ïã¡İşÿÿÿÿ8Ë¸áİ³1
+b	java:S1120"FDefine and throw a dedicated exception instead of using a generic one.(÷Ìˆ¶8Ê¼ìİ³1
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ï™åÇ8Ë¸áİ³1
+{
+java:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(©ÇãŠúÿÿÿÿ8Ë¸áİ³1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(êï¯·8Í¸áİ³1
+e
+java:S2095&"HUse try-with-resources or close this "Connection" in a "finally" clause.(ÏÄçœ8‡½ìİ³1
+i
+java:S20955"GUse try-with-resources or close this "Statement" in a "finally" clause.(ìï‡Àûÿÿÿÿ8û¸áİ³1
+i
+java:S2095'"GUse try-with-resources or close this "Statement" in a "finally" clause.(É¨úıÿÿÿÿ8‡½ìİ³1
+e
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ÏÄçœ8—úİ³1
+e
+java:S20954"HUse try-with-resources or close this "Connection" in a "finally" clause.(ÏÄçœ8û¸áİ³1
+i
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(ìï‡Àûÿÿÿÿ8—úİ³1
+m	java:S116"QRename this field "Driver" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æœÎê8ü¸áİ³1
+T
+java:S1117("7Rename "sql" which hides the field declared at line 15.(¸·óÃ8ŞÑøİ³1

@@ -1,0 +1,25 @@
+
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ΓΤ8Ψβά³1
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¨‰Ψιÿÿÿÿÿ8Ψβά³1
+b	java:S112#"FDefine and throw a dedicated exception instead of using a generic one.(φΉΏ8Ψβά³1
+b	java:S112("FDefine and throw a dedicated exception instead of using a generic one.(π“ώΖ8Ψβά³1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ύ½Ωµ8Ϊβά³1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Τ‚ξ8Ϊβά³1
+Z
+java:S1163("=Refactor this code to not throw exceptions in finally blocks.(π“ώΖ8Ϊβά³1
+Q
+java:S1143("4Remove this throw statement from this finally block.(π“ώΖ8Ϋβά³1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(κο―·8Ϋβά³1
+i
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(μο‡ΐϋÿÿÿÿ8Ω°δά³1
+R
+java:S6437"6Revoke and change this password, as it is compromised.(¥ϊΐR8σβά³1
+R
+java:S1481"0Remove this unused "columnCount" local variable.(ΥζΩσόÿÿÿÿ8υβά³1
+K
+java:S1481")Remove this unused "rsmd" local variable.(…εΤόωÿÿÿÿ8φβά³1
+G
+java:S1481"*Remove this unused "count" local variable.(ζΥΏΌ8φβά³1
+n
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ϋ‚8ψβά³1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ϋ‚8ψβά³1

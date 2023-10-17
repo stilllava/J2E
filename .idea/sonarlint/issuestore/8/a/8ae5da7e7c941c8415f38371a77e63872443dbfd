@@ -1,0 +1,17 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8³«μή³1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(κο―·8¶«μή³1
+i
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(μο‡ΐϋÿÿÿÿ8ΐ«μή³1
+i
+java:S2095,"GUse try-with-resources or close this "Statement" in a "finally" clause.(Ι¨ϊύÿÿÿÿ8…ίοή³1
+e
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ΟΔη8…ίοή³1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ς΅ΫΦÿÿÿÿÿ8Β«μή³1
+X
+java:S1854"6Remove this useless assignment to local variable "rs".(Κυήΰώÿÿÿÿ8Δ«μή³1
+I
+java:S1481"'Remove this unused "rs" local variable.(Κυήΰώÿÿÿÿ8Ζ«μή³1
+n
+java:S1128"LRemove this unused import 'com.microsoft.sqlserver.jdbc.SQLServerException'.(Έ®”Θψÿÿÿÿ8ίοή³1

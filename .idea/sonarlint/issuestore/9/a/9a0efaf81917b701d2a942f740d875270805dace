@@ -1,0 +1,32 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(©¡ğşÿÿÿÿ8¥Ù†Û³1
+v
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(Íõã8¥Ù†Û³1
+{
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(—Œ‰€ûÿÿÿÿ8¥Ù†Û³1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(† ³8¦Ù†Û³1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(† ³8¦Ù†Û³1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ôÑ‚²8‘‚‡Û³1
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÃÌ¥öşÿÿÿÿ
+B
+java:S1659"%Declare "Endtime" on a separate line.(† ³8ĞÜ†Û³1
+C
+java:S2129"!Remove this "Integer" constructor(Øğõ´üÿÿÿÿ8ÔÜ†Û³1
+j
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(Øğõ´üÿÿÿÿ8ÖÜ†Û³1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(äÑ—Ìüÿÿÿÿ8ÖÜ†Û³1
+>
+java:S2129"!Remove this "Integer" constructor(õ×‹¶8×Ü†Û³1
+e
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(õ×‹¶8×Ü†Û³1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(äÑ—Ìüÿÿÿÿ8×Ü†Û³1
+>
+java:S2129"!Remove this "Integer" constructor(îßßÃ8ØÜ†Û³1
+e
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(îßßÃ8ØÜ†Û³1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(äÑ—Ìüÿÿÿÿ8ÙÜ†Û³1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(äÑ—Ìüÿÿÿÿ8ÚÜ†Û³1
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(äÑ—Ìüÿÿÿÿ8ÛÜ†Û³1
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(äÑ—Ìüÿÿÿÿ8ÜÜ†Û³1

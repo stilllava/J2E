@@ -1,0 +1,93 @@
+
+h
+java:S1192"FDefine a constant instead of duplicating this literal "Green" 4 times.(ü½Å§ÿÿÿÿÿ8åÛ‰Û³1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ªÎ¤ùÿÿÿÿ8¢ŠÛ³1
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÃÌ¥öşÿÿÿÿ
+P
+java:S2755@"3Disable access to external entities in XML parsing.(Éú¹€8ĞÜ‰Û³1
+>
+java:S2129"!Remove this "Integer" constructor(«î8ÖÜ‰Û³1
+e
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(«î8×Ü‰Û³1
+C
+java:S2129"!Remove this "Integer" constructor(ñ©‡ùÿÿÿÿ8×Ü‰Û³1
+j
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(ñ©‡ùÿÿÿÿ8×Ü‰Û³1
+C
+java:S2129"!Remove this "Integer" constructor(ü½Å§ÿÿÿÿÿ8ØÜ‰Û³1
+j
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(ü½Å§ÿÿÿÿÿ8ØÜ‰Û³1
+>
+java:S2129"!Remove this "Integer" constructor(ÿ¥°Ş8ÙÜ‰Û³1
+e
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(ÿ¥°Ş8ÙÜ‰Û³1
+>
+java:S2129"!Remove this "Integer" constructor(¾ä×8ÙÜ‰Û³1
+e
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(¾ä×8ÙÜ‰Û³1
+>
+java:S2129"!Remove this "Integer" constructor(ÂÇé€8ÚÜ‰Û³1
+e
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(ÂÇé€8ÚÜ‰Û³1
+C
+java:S2129"!Remove this "Integer" constructor(áŒ«ôûÿÿÿÿ8ÚÜ‰Û³1
+j
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(áŒ«ôûÿÿÿÿ8ÚÜ‰Û³1
+>
+java:S2129"!Remove this "Integer" constructor(¦«Èì8ÜÜ‰Û³1
+e
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(¦«Èì8ÜÜ‰Û³1
+>
+java:S2129"!Remove this "Integer" constructor(ä€´÷8ÜÜ‰Û³1
+e
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(ä€´÷8ÜÜ‰Û³1
+>
+java:S2129"!Remove this "Integer" constructor(¡‡èĞ8äÜ‰Û³1
+e
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(¡‡èĞ8äÜ‰Û³1
+C
+java:S2129"!Remove this "Integer" constructor(˜’ÃÄıÿÿÿÿ8åÜ‰Û³1
+j
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(˜’ÃÄıÿÿÿÿ8åÜ‰Û³1
+>
+java:S2129"!Remove this "Integer" constructor(¦şÕ8åÜ‰Û³1
+e
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(¦şÕ8çÜ‰Û³1
+>
+java:S2129"!Remove this "Integer" constructor( º8çÜ‰Û³1
+e
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.( º8çÜ‰Û³1
+>
+java:S2129"!Remove this "Integer" constructor(ìæ®‚8çÜ‰Û³1
+e
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(ìæ®‚8èÜ‰Û³1
+>
+java:S2129 "!Remove this "Integer" constructor(œ¦†ù8èÜ‰Û³1
+e
+java:S5738 "HRemove this call to a deprecated method, it has been marked for removal.(œ¦†ù8èÜ‰Û³1
+C
+java:S2129!"!Remove this "Integer" constructor(¡×Àôûÿÿÿÿ8éÜ‰Û³1
+j
+java:S5738!"HRemove this call to a deprecated method, it has been marked for removal.(¡×Àôûÿÿÿÿ8éÜ‰Û³1
+>
+java:S2129""!Remove this "Integer" constructor(Î«Ó“8êÜ‰Û³1
+e
+java:S5738""HRemove this call to a deprecated method, it has been marked for removal.(Î«Ó“8êÜ‰Û³1
+C
+java:S2129#"!Remove this "Integer" constructor(ææˆµşÿÿÿÿ8ëÜ‰Û³1
+j
+java:S5738#"HRemove this call to a deprecated method, it has been marked for removal.(ææˆµşÿÿÿÿ8ëÜ‰Û³1
+>
+java:S2129$"!Remove this "Integer" constructor(éŞ¨ú8ìÜ‰Û³1
+e
+java:S5738$"HRemove this call to a deprecated method, it has been marked for removal.(éŞ¨ú8ìÜ‰Û³1
+C
+java:S2129%"!Remove this "Integer" constructor(å€áÉıÿÿÿÿ8íÜ‰Û³1
+j
+java:S5738%"HRemove this call to a deprecated method, it has been marked for removal.(å€áÉıÿÿÿÿ8íÜ‰Û³1
+>
+java:S2129&"!Remove this "Integer" constructor(¢ÈŸˆ8íÜ‰Û³1
+e
+java:S5738&"HRemove this call to a deprecated method, it has been marked for removal.(¢ÈŸˆ8íÜ‰Û³1
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(ò¹ûÿÿÿÿ8şÜ‰Û³1
+Z	java:S106G"9Replace this use of System.out or System.err by a logger.(Õ‘–‚ùÿÿÿÿ8ÿÜ‰Û³1

@@ -1,0 +1,26 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒ¯º¦þÿÿÿÿ
+^
+java:S1659"CDeclare "moonth" and all following declarations on a separate line.(‚ôÊÉýÿÿÿÿ
+]
+java:S1854"BRemove this useless assignment to local variable "monthTotalDays".(Œ‘Œ¨ùÿÿÿÿ
+b
+java:S1854"GRemove this useless assignment to local variable "firstWeekDayOfMonth".(›ùšÍÿÿÿÿÿ
+S
+java:S1481"8Remove this unused "firstWeekDayOfMonth" local variable.(›ùšÍÿÿÿÿÿ
+N
+java:S1481"3Remove this unused "monthTotalDays" local variable.(Œ‘Œ¨ùÿÿÿÿ
+N
+java:S1854"8Remove this useless assignment to local variable "scan".(ÅÒ²º
+‡
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Þýÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ôîÕ[
+?
+java:S1481")Remove this unused "scan" local variable.(ÅÒ²º
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Îî¹d
+C
+java:S1068"(Remove this unused "year" private field.(‚ôÊÉýÿÿÿÿ
+E
+java:S1068"*Remove this unused "moonth" private field.(‚ôÊÉýÿÿÿÿ
+B
+java:S1068"'Remove this unused "day" private field.(‚ôÊÉýÿÿÿÿ

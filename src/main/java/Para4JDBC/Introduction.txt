@@ -1,0 +1,18 @@
+Java JDBC Java连接数据库的集合的标准
+1、JDBC概述
+import java.sql.*;//大部分都在此包中，大多为接口，没有定义实现的类
+//为什么只定义接口、没有实现:接口只定义了要做什么，并没有定义怎么去做，只声明没有函数体，即抽象
+2、JDBC编程基本步骤:
+    1)将数据库访问的驱动包(*.jar)导入到项目中(jar包的版本需要与数据库版本和jdk版本相符);
+    2)加载数据库驱动;
+    String driver="com.mysql.jdbc.Driver";
+    Class.forName(driver);
+    3)构建连接对象Connection;
+    Connection conn=DriverManager.getConnection(url,user,pwd);
+    4)构建Statement对象;
+    5)如果返回结果集ResultSet,
+3、
+4、使用集合存储数据库表中的记录:
+O-R Map
+Object(对象)-Relation(数据库) Map
+5、带参数的sql语句

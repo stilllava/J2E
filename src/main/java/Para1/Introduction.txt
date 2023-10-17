@@ -1,0 +1,29 @@
+日记类
+Calendar
+静态语句方法
+
+    迭代器
+        List<String> courseNames = new ArrayList<String>();
+        Iterator<String> it=courseNames.iterator();
+Java集合框架
+由一系列的接口与类构成了Java集合框架
+    List<String> courseName=new ArrayList<String>();
+    List是一个接口，并不算严格意义上的类，抽象类，只规定了用法没有规定用法,具体实现参照下级类的方法，
+    父类的对象可以调用子类对象的方法
+    List<Student> Students=new ArrayList<Student>();
+
+数据存储结构
+    顺序数组
+        占用空间太大
+        移动，频繁修改不便
+    链式存储
+        只能顺序查找，无法查找指定位置元素
+        有利于删除
+    HashSet:根据它本身的值来决定存储位置(由值计算出它的哈希地址/散列地址)
+        ——Hash值冲突检测:线性探测法/环形探测法
+    TreeSet:平衡二叉树
+    定义:对于每个节点，其左子树和右子树的高度之差最多为1.
+    这是一个有序的平衡的二叉树
+    并没出现值的覆盖，但是第二个有相同值的实例没有添加
+    Map:集合中的每个元素由关键字key和值value构成<key,value>(键值对)
+        HashMap:将键值对映射到对象

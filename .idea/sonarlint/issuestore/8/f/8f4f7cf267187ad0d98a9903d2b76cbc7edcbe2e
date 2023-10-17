@@ -1,0 +1,37 @@
+
+z
+java:S1192"]Define a constant instead of duplicating this literal "============================" 6 times.(»¹°Ž8«ÑÑ½±1
+Y
+java:S4973"<Strings and Boxed types should be compared using "equals()".(è«€¨8«ÑÑ½±1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•­ìèüÿÿÿÿ8¬ÑÑ½±1
+X
+java:S1854$"6Remove this useless assignment to local variable "s6".(Ù Êýÿÿÿÿ8·ÑÑ½±1
+=
+java:S2129" Remove this "String" constructor(Üó¾Ò8ºÑÑ½±1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(»¹°Ž8ºÑÑ½±1
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(Á½¾Î8ºÑÑ½±1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(œÜ²—øÿÿÿÿ8»ÑÑ½±1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(»¹°Ž8»ÑÑ½±1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ØÜ8»ÑÑ½±1
+d
+java:S1126"BReplace this if-then-else statement by a single method invocation.(œ´¸Öúÿÿÿÿ8»ÑÑ½±1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ý·‡‘øÿÿÿÿ8»ÑÑ½±1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ûãÁùùÿÿÿÿ8¼ÑÑ½±1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(»¹°Ž8¼ÑÑ½±1
+E
+java:S1125"(Remove the unnecessary boolean literals.(Åí‡Ð8¼ÑÑ½±1
+L
+java:S2200"/Only the sign of the result should be examined.(Åí‡Ð8¼ÑÑ½±1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Æ ÆŒýÿÿÿÿ8¼ÑÑ½±1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(»¹°Ž8½ÑÑ½±1
+J
+java:S2201"-The return value of "substring" must be used.(ÐßÉÔ8½ÑÑ½±1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(©ƒÌ®øÿÿÿÿ8½ÑÑ½±1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(»¹°Ž8¾ÑÑ½±1
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(®îûâ8î“Ó½±1
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(»¹°Ž8œÂÕ½±1
+I
+java:S1481$"'Remove this unused "s6" local variable.(Ù Êýÿÿÿÿ8¾ÑÑ½±1
+M
+java:S6035%"0Replace this alternation with a character class.(×ðíÎ8ÆÑÑ½±1
+T	java:S106'"9Replace this use of System.out or System.err by a logger.(èÕ˜8ÞÐÖ½±1
